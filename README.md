@@ -1,3 +1,7 @@
 # DSCI_Group_Project
 
-Author: Celia Huang
+Author: 
+Betty Fang
+Achol Jones
+Wendi Zhong
+Celia Huang
